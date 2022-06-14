@@ -11,4 +11,9 @@ Latest Vk Video
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 
-Follow Me
+### Follow Me
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
+![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)
+![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)
