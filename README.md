@@ -12,15 +12,15 @@ Latest Vk Video
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)[Telegram]:https://t.me/Assad0660
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
 ![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
 ![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)
 ![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)
 
 #### Links to profiles
-[Telegram]: https://t.me/Assad0660
-[Vkontakte]: https://vk.com/id679285839
-[Facebook]: https://www.facebook.com/people/Asad-Umarov/100074191373774/
-[Youtube]: https://www.youtube.com/channel/UCvYKDTn2aFR5OpmoG9tHZTQ
-[Instagram]: https://www.instagram.com/jon21318291/
+[Pulounge Telegram](https://t.me/Assad0660)
+[Pulounge Vkontakte](https://vk.com/id679285839)
+[Pulounge Facebook](https://www.facebook.com/people/Asad-Umarov/100074191373774/)
+[Pulounge Youtube](https://www.youtube.com/channel/UCvYKDTn2aFR5OpmoG9tHZTQ)
+[Pulounge Instagram](https://www.instagram.com/jon21318291/)
